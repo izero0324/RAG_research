@@ -36,7 +36,7 @@ General-purpose fune-tning approach -> RAG!!!
 
 ### RAG structure:
 Retriver + Generator
-![截圖 2024-06-03 下午3.30.00](https://hackmd.io/_uploads/ByvuQLoER.png)
+![RAG_struc](./img/RAG_structure.png)
 #### Retriever:
 [Dense Passage Retriever](https://arxiv.org/pdf/2004.04906) ==(DPR)==
 #### Generator:
